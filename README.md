@@ -17,8 +17,6 @@ Standard rules apply for the 2D game:
 3. Any live cell with more than three live neighbours dies, as if by overpopulation.
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
-## Controls
-
 # Menu Bar
 Slider Bar: Controls how quickly the game progresses  
 Play/Pause Button: Plays and Pauses the automatic progress of the game  
